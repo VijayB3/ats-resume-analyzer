@@ -1,0 +1,73 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+*.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Testing
+coverage/
+.nyc_output/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Database
+*.sqlite
+*.db
+.mongodb
+
+# Cache
+.cache/
+.eslintcache
+
+# Temp files
+temp/
+tmp/
+*.tmp
+
+# Node
+package-lock.json
+yarn.lock
+
+# Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE specific
+*.sublime-project
+*.sublime-workspace
+
+# Docker
+docker-compose.override.yml
+
+# Uploads
+uploads/
+public/uploads/
