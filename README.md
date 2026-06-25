@@ -1,4 +1,4 @@
-# ATS Resume Analyzer - DevOps Fresher Edition
+# ATS Resume Analyzer - DevOps Fresher Edition.
 
 A modern AI-powered ATS (Applicant Tracking System) Resume Analyzer web application designed specifically for Fresher DevOps Engineers. Analyze your resume against industry standards, optimize for DevOps roles, and get actionable insights to land your dream job.
 
